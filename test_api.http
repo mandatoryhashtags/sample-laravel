@@ -1,0 +1,6 @@
+### Test Api
+GET https://formula.test/api/products
+
+
+### Test Api Post
+POST https://formula.test/api/products/pigment-yellow-1w
